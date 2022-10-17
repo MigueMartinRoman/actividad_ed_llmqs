@@ -1,8 +1,6 @@
-User-agent: Google
-Disallow: /nogoogle/
+User-agent: Googlebot
 
-User-agent: *
-Allow: /jpg/
+Allow: /*.jpg
+Allow: /*.html
+Disallow; privat.html
 
-User-agent: *
-Disallow: /privat.html/
