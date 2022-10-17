@@ -1,0 +1,8 @@
+User-agent: Google
+Disallow: /nogoogle/
+
+User-agent: *
+Allow: /jpg/
+
+User-agent: *
+Disallow: /privat.html/
